@@ -16,7 +16,7 @@ const Navbar = () => {
             <div className='flex flex-row justify-between p-5 md:px-32 bg-white shadow-[0_3px_10px_rgba(0,0,0,0.23)]'>
                 <div>
                     <Link className='font-semibold text-2xl p-1 cursor-pointer' to='/'>
-                        E-Study
+                        EkStudy
                     </Link>
                 </div>
                 <nav className='hidden md:flex gap-5 font-medium p-1 cursor-pointer'>
